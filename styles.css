@@ -57,3 +57,9 @@ section p {
     text-align: center;
     margin: 10px 0;
 }
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: DarkSalmon;
+    color: white;
+  }
